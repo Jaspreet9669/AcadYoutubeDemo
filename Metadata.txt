@@ -1,4 +1,4 @@
 Captions
 Resolution
 Channels
-Buffering Speed
+Live Streaming
