@@ -2,3 +2,5 @@ English
 French
 German
 Norse
+Latin
+
